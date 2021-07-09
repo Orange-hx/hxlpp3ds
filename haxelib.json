@@ -1,0 +1,12 @@
+{
+    "name"         : "hxlpp3ds",
+    "url"          : "https://github.com/Orange-hx/hxlpp3ds",
+    "license"      : "Public",
+    "tags"         : [ "3ds", "lua", "externs", "game" ],
+    "description"  : "Haxe externs for LuaPlayerPlus 3DS!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of Orange.hx stuff!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}
